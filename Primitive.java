@@ -54,7 +54,8 @@ public class Primitive {
         boolean bl = true;
         System.out.println(bl);
 
- 
+  boolean b2 = false;
+        System.out.println(b2);
 
 
 
